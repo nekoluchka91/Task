@@ -7,43 +7,23 @@
 
 
 Console.WriteLine("Введите любое целое число: ");
-int numA = Convert.ToInt32(Console.ReadLine());
-int res = 0;
-while (numA > 1000)
+int num = Convert.ToInt32(Console.ReadLine());
+while (num > 1000)
 {
-    numA / 10;
-    return numA;
+    num = num / 10;
+    num = num % 10;
+    Console.WriteLine($"Третья цифра заданного числа");
 }
-int res = numA % 10;
-Console.WriteLine($"Третья цифра заданного числа");
 
-if (numA < 100)
+if (num < 100)
+{
     Console.WriteLine($"Третьей цифры заданного числа не существует");
-
-if (numA < 1000)
-{
-    int numA = numA % 10;
 }
-Console.WriteLine($"Третья цифра заданного числа");
+
+else if (num < 1000)
+{
+    num = num % 10;
+    Console.WriteLine($"Третья цифра заданного числа");
+}
 
 
-
-
-
-
-// int num = new Random();
-// int result = PrintThirdDigit(num);
-// Console.WriteLine($"{num} -> {result}");
-
-// //int PrintThirdDigit = int(num)
-// while (num > 1000);
-// {
-//     num / 10;
-//     intB = num % 10;
-//     return num;
-// }
-// if (numA < 100;
-//     return "Третьей цифры нет";
-
-// result = PrintThirdDigit();
-// Console.WriteLine(result);
