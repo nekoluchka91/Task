@@ -5,7 +5,8 @@
 // a = 2; b = 10 -> max = 10
 // a = -9; b = -3 -> max = -3
 
-// int number_a = x;
+// Д.Б. пользовательский ввод!!! + диалог с пользователем!!!
+// int number_a = x; В именах переменных и методов не д.б. нижнего _!!!
 // int number_b = y;
 // if (number_a > number_b)
 // Console.WriteLine(number_a);

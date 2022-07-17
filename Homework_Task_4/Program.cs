@@ -5,7 +5,8 @@
 // 44, 5, 78 -> 78
 // 22, 3, 9 -> 22
 
-
+// Д.Б. пользовательский ввод!!! 
+// В именах переменных и методов не д.б. нижнего _!!!
 // int number_a = x;
 // int number_b = y;
 // int number_c = z;
@@ -14,7 +15,7 @@
 
 // if (number_a > max) max = number_a;
 // if (number_b > max) max = number_b;
-// if (number_c > max) max = number_c;
+// if (number_c > max) max = number_c; ЛИШНЕЕ СРАВНЕНИЕ
 
 // Console.Write("max = ");
 // Console.WriteLine(max);
