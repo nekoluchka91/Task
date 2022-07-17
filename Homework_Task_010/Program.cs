@@ -4,6 +4,8 @@
 // 456 -> 5
 // 782 -> 8
 // 918 -> 1
+// int num = new Random().Next(100, 1000); ???????
+
 
 Console.WriteLine("Введите целое трехначное число: "); // 456
 int numA = Convert.ToInt32(Console.ReadLine());
