@@ -11,11 +11,12 @@
 Console.WriteLine("Введите пятизначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-void Check(num);
+void Check(num collection);
 {
-if (num[0] == num[4] || num[1] == num[3]) "Введенное число является палиндромом.";
-return "Введенное число не является палиндромом.";
+    if (num[0] == num[4] || num[1] == num[3]) "Введенное число является палиндромом.";
+    return "Введенное число не является палиндромом.";
 }
 
-result = Check(num);
+result = Check(num[index]collection);
 Console.WriteLine(result);
+
