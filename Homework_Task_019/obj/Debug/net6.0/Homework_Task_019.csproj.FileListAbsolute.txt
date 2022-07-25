@@ -3,3 +3,13 @@ C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\ne
 C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\net6.0\Homework_Task_019.AssemblyInfoInputs.cache
 C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\net6.0\Homework_Task_019.AssemblyInfo.cs
 C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\net6.0\Homework_Task_019.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\bin\Debug\net6.0\Homework_Task_019.exe
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\bin\Debug\net6.0\Homework_Task_019.deps.json
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\bin\Debug\net6.0\Homework_Task_019.runtimeconfig.json
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\bin\Debug\net6.0\Homework_Task_019.dll
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\bin\Debug\net6.0\Homework_Task_019.pdb
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\net6.0\Homework_Task_019.dll
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\net6.0\refint\Homework_Task_019.dll
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\net6.0\Homework_Task_019.pdb
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\net6.0\Homework_Task_019.genruntimeconfig.cache
+C:\Users\123\Desktop\СиШарпПрактика\Homework_Task_019\obj\Debug\net6.0\ref\Homework_Task_019.dll
