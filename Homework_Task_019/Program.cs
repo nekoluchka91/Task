@@ -27,15 +27,3 @@ else
 {
     Console.WriteLine($"Данное число не является палиндромом.");
 }
-
-
-
-// void Check(num collection);
-// {
-//     if (num[0] == num[4] || num[1] == num[3]) "Введенное число является палиндромом.";
-//     return "Введенное число не является палиндромом.";
-// }
-
-// result = Check(num[index]collection);
-// Console.WriteLine(result);
-
