@@ -40,13 +40,13 @@ void GetAverage(int[,] matrix)
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         double average = 0;
-        for (int t = 0; t < matrix.GetLength(1); t++)
+        for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            average += matrix[t, i];
+            average += matrix[i, j];
         }
         double result = average/matrix.GetLength(0);
         result = Math.Round(result, 1);
-        Console.WriteLine($"Cреднее арифметическое элементов столбца {i + 1} = {result}");
+        Console.WriteLine($"Cреднее арифметическое элементов столбца {j + 1} = {result}");
     }
 }  
 
