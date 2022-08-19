@@ -37,10 +37,10 @@ void PrintMatrix(int[,] matrix)
 
 void GetAverage(int[,] matrix)
 {
-    for (int i = 0; i < matrix.GetLength(0); i++)
+    for (int j = 0; j < matrix.GetLength(1); j++)
     {
         double average = 0;
-        for (int j = 0; j < matrix.GetLength(1); j++)
+        for (int i = 0; i < matrix.GetLength(0); i++)
         {
             average += matrix[i, j];
         }
