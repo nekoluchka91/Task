@@ -21,32 +21,32 @@ int[,] GetMatrix(int m, int n)
     return matrix;
 }
 
-void PrintMatrix(int[,] array)
+void PrintMatrix(int[,] matrix)
 {
-    for (int i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1); j++)
+        for (int j = 0; j < matrix.GetLength(1); j++)
         {
             if (j == 0) Console.Write("[");
-            if (j < array.GetLength(1) -1) Console.Write($"{array[i, j], 3},");
-            else Console.Write($"{array[i, j], 3}]");
+            if (j < matrix.GetLength(1) -1) Console.Write($"{matrix[i, j], 3},");
+            else Console.Write($"{matrix[i, j], 3}]");
         }
         Console.WriteLine();
     }
 }
 
-void GetAverage(int[,] matrix, int result)
+void GetAverage(int[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         double average = 0;
-        for (int j = 0; j < matrix.GetLength(1); j++)
+        for (int t = 0; t < matrix.GetLength(1); t++)
         {
-            average += matrix[i, j];
+            average += matrix[t, i];
         }
-        double average = sum / matrix.GetLength(1);
+        double result = average/matrix.GetLength(0);
         result = Math.Round(result, 1);
-        Console.WriteLine($"Cреднее арифметическое элементов столбца {j + 1} = {result}");
+        Console.WriteLine($"Cреднее арифметическое элементов столбца {i + 1} = {result}");
     }
 }  
 
