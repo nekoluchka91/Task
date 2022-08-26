@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\bin\Debug\net6.0\Task_63.exe
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\bin\Debug\net6.0\Task_63.deps.json
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\bin\Debug\net6.0\Task_63.runtimeconfig.json
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\bin\Debug\net6.0\Task_63.dll
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\bin\Debug\net6.0\Task_63.pdb
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\Task_63.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\Task_63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\Task_63.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\Task_63.AssemblyInfo.cs
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\Task_63.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\Task_63.dll
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\refint\Task_63.dll
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\Task_63.pdb
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\Task_63.genruntimeconfig.cache
+C:\Users\123\Desktop\СиШарпПрактика\Task_63\obj\Debug\net6.0\ref\Task_63.dll
