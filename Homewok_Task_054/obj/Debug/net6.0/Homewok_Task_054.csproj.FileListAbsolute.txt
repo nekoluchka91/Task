@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\Homewok_Task_054.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\Homewok_Task_054.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\Homewok_Task_054.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\Homewok_Task_054.AssemblyInfo.cs
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\Homewok_Task_054.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\bin\Debug\net6.0\Homewok_Task_054.exe
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\bin\Debug\net6.0\Homewok_Task_054.deps.json
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\bin\Debug\net6.0\Homewok_Task_054.runtimeconfig.json
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\bin\Debug\net6.0\Homewok_Task_054.dll
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\bin\Debug\net6.0\Homewok_Task_054.pdb
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\Homewok_Task_054.dll
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\refint\Homewok_Task_054.dll
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\Homewok_Task_054.pdb
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\Homewok_Task_054.genruntimeconfig.cache
+C:\Users\123\Desktop\СиШарпПрактика\Homewok_Task_054\obj\Debug\net6.0\ref\Homewok_Task_054.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Homewok_Task_054/1.0.0": {
+        "runtime": {
+          "Homewok_Task_054.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homewok_Task_054/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
